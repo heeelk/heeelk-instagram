@@ -1,4 +1,4 @@
-# heeelk-instagram
+# Heeelk Instagram
 
 WP plugin for API Instagram.
 
